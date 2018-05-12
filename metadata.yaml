@@ -1,0 +1,31 @@
+_repo: Po-sies--rotiques_26562
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parny, Évariste
+    aliases:
+    - Parny, Évariste Désiré de Forges, vicomte de
+    - Parny, Evariste Desire de Forges
+    birthdate: 1753
+    deathdate: 1814
+    gutenberg_agent_id: '32099'
+    url: http://www.gutenberg.org/2009/agents/32099
+    wikipedia: http://fr.wikipedia.org/wiki/%C3%89variste_de_Parny
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2008-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26562'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Erotic poetry, French'
+title: Poésies érotiques
+url: http://www.gutenberg.org/ebooks/26562
